@@ -1,2 +1,2 @@
 # bxComponentNewsListD7
-Bitrix Компонент Список новостей на D7
+Bitrix Компонент Список новостей (news.list) на D7
